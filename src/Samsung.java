@@ -2,7 +2,7 @@ public class Samsung extends Phone{
 
 
     public Samsung(String owner) {
-        super(owner, "애플");
+        super(owner, "삼송");
     }
 
 
